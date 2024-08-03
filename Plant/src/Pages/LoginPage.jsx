@@ -21,7 +21,7 @@ const LoginPage = () => {
     } else {
       setError("");
       try {
-        let res = await fetch("https://manasghosh7681.github.io/api/db.json");
+        let res = await fetch("https://subrat053.github.io/api/db.json");
         if (!res.ok) {
           throw new Error("Network response was not ok");
         }

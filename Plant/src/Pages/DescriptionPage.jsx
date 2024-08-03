@@ -28,7 +28,7 @@ const DescriptionPage = () => {
     useEffect(() => {
         async function fetchTreeData() {
             try {
-                const response = await axios.get('https://manasghosh7681.github.io/api/db.json');
+                const response = await axios.get('https://subrat053.github.io/api/db.json');
                 const data = response.data;
                 // Find the tree data matching the treeId
                 const tree = data.Tree.find(t => t.id === treeId);

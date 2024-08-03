@@ -1,6 +1,6 @@
 import './Navbar.css';
 import { useNavigate } from "react-router-dom";
-import profile from '../assets/Manas.jpg';
+import profile from '../assets/subrat.jpg';
 import { useContext } from 'react';
 import { AuthoContext } from './AuthoContext';
 

@@ -10,8 +10,8 @@ const AboutPage = () => {
 
 
     const [formData, setFormData] = useState({
-        name: "Manas Ghosh",
-        email: "manasghosh@gmail.com",
+        name: "Subrat hota",
+        email: "subrat@gmail.com",
         password: "...................",
         phoneNumber: "9583203241",
         address: "Patia, Bhubaneswar",
