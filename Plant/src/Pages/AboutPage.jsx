@@ -1,5 +1,5 @@
 import Navbar from "../Components/Navbar";
-import profile from '../assets/Manas.jpg';
+import profile from '../assets/subrat.jpg';
 import { FaPencilAlt } from 'react-icons/fa';
 import { useState } from 'react';
 import './AboutPage.css';
